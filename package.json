@@ -1,0 +1,41 @@
+{
+  "name": "@mycloudcinema/projectx-base-vuejs",
+  "description": "Files which are used to bootstrap a VueJS application",
+  "version": "0.0.2",
+  "license": "MIT",
+  "author": "My Cloud Cinema",
+  "contributors": [
+    "My Cloud Cinema <mycloudcinema@remek.com> (https://mycloudcinema.com/)"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": ">= 6.0"
+  },
+  "scripts": {},
+  "_from": "projectx-base-vuejs@0.0.2",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "mycloudcinema",
+    "email": "mycloudcinema@remek.com"
+  },
+  "maintainers": [
+    "My Cloud Cinema <mycloudcinema@remek.com>"
+  ],
+  "dist": {},
+  "directories": {},
+  "keywords": [
+    "ProjectX",
+    "VueJS",
+    "NodeJS",
+    "Application",
+    "Framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycloudcinema/projectx-base-vuejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mycloudcinema/projectx-base-vuejs/issues"
+  },
+  "homepage": "https://github.com/mycloudcinema/projectx-base-vuejs#readme"
+}
